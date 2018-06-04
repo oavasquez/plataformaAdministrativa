@@ -2,10 +2,6 @@ import React, { Component } from 'react';
 
 import SideNav, {NavIcon, NavText } from 'react-sidenav';
 
-
-
-
-//import logo from './logo.png';
 import './App.css';
 import 'primereact/resources/themes/omega/theme.css';
 import 'primereact/resources/primereact.min.css';
